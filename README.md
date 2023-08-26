@@ -56,7 +56,7 @@
 ```
 6.  <ins> Links: </ins>
 ```
-Texto do link](URL do link)
+[Texto do link](URL do link)
 ```
 
 7.  <ins> Citações:</ins> 
@@ -131,3 +131,8 @@ Conteúdo da seção 2
 ```
 <ins>Texto sublinhado</ins>
 ```
+
+19. <ins>Âncora para sumario de imagens:</ins>
+```
+<a name="imagem-1"></a>
+``` 
